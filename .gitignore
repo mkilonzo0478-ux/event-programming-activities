@@ -1,0 +1,16 @@
+# Java & Maven compiled files
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Maven output
+week06-javafx/target/
