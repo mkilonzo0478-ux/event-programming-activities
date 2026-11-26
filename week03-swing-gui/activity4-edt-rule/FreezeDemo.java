@@ -3,6 +3,8 @@ import java.awt.*;
 
 /**
  * Activity 4.1: Demonstrates an EDT violation that freezes the UI for 5 seconds.
+ *
+ * @author Michael Kilonzo
  */
 public class FreezeDemo {
 

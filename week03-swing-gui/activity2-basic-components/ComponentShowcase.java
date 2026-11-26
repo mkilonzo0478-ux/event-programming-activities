@@ -5,6 +5,8 @@ import java.awt.*;
  * Activity 2: Basic Swing Components Tour.
  * Demonstrates JLabel, JTextField, JPasswordField, JCheckBox,
  * JRadioButton with ButtonGroup, JComboBox, JTextArea in JScrollPane, and JButton.
+ *
+ * @author Michael Kilonzo
  */
 public class ComponentShowcase {
 

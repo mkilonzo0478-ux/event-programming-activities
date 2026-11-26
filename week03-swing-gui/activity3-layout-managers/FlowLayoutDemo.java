@@ -3,6 +3,8 @@ import java.awt.*;
 
 /**
  * Activity 3.1: Demonstrates FlowLayout wrapping left-to-right.
+ *
+ * @author Michael Kilonzo
  */
 public class FlowLayoutDemo {
 

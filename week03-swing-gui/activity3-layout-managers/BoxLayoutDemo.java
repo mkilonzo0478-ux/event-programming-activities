@@ -4,6 +4,8 @@ import java.awt.*;
 
 /**
  * Activity 3: Demonstrates BoxLayout (vertical stacking with struts).
+ *
+ * @author Michael Kilonzo
  */
 public class BoxLayoutDemo {
 

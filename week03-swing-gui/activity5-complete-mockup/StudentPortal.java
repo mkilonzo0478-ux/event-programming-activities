@@ -5,6 +5,8 @@ import java.awt.*;
 /**
  * Activity 5: Complete Static GUI Mockup — University Student Portal Dashboard.
  * Customized with university branding, student profile, stat cards, and menu bar.
+ *
+ * @author Michael Kilonzo
  */
 public class StudentPortal {
 

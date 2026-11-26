@@ -3,6 +3,8 @@ import java.awt.*;
 
 /**
  * Activity 3.4: Demonstrates nested layout managers forming an application shell.
+ *
+ * @author Michael Kilonzo
  */
 public class CombinedLayoutDemo {
 

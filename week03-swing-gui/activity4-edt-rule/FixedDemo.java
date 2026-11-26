@@ -4,6 +4,8 @@ import java.awt.*;
 /**
  * Activity 4.2: Demonstrates proper EDT usage by offloading long work
  * to a background thread and dispatching GUI updates back to the EDT.
+ *
+ * @author Michael Kilonzo
  */
 public class FixedDemo {
 

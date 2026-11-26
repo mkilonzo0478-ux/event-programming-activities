@@ -7,6 +7,11 @@
 
 import javax.swing.*;
 
+/**
+ * Activity 1: First Swing Window.
+ *
+ * @author Michael Kilonzo
+ */
 public class FirstWindow {
 
     public static void main(String[] args) {

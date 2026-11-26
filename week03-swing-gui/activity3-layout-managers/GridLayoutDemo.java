@@ -3,6 +3,8 @@ import java.awt.*;
 
 /**
  * Activity 3.3: Demonstrates GridLayout with a 4x4 calculator button grid.
+ *
+ * @author Michael Kilonzo
  */
 public class GridLayoutDemo {
 

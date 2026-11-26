@@ -3,6 +3,8 @@ import java.awt.*;
 
 /**
  * Activity 3.2: Demonstrates BorderLayout's five regions.
+ *
+ * @author Michael Kilonzo
  */
 public class BorderLayoutDemo {
 
